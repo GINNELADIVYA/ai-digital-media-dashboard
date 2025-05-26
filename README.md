@@ -2,7 +2,7 @@
 Tableau dashboard visualizing the impact of AI on digital media from 2020 to 2025.
 # 📊 Impact of AI on Digital Media (2020–2025)
 
-![Dashboard Preview](https://public.tableau.com/app/profile/divyavizz/viz/IMPACTOFAI/Summary)
+![Dashboard Preview] (https://public.tableau.com/app/profile/divyavizz/viz/IMPACTOFAI/Summary)
 
 This Tableau dashboard visualizes the evolving influence of Artificial Intelligence (AI) on various aspects of the digital media industry between 2020 and 2025. It covers adoption trends, revenue impact, job displacement, consumer trust, regulatory trends, and more.
 
